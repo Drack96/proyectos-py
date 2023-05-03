@@ -15,4 +15,4 @@ num1= int(input("Escribe numero de Documento: "))
 ciudad= str(input("ciudad de donde nacio: "))
 num2= int(input("Indique que edad tiene: "))
 print("//////////////////////**////////////////////")
-
+print("             IMPRIMIENDO DATOS")
